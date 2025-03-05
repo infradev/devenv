@@ -1,0 +1,11 @@
+direnv latest
+github-cli latest
+helm latest
+kubectl latest
+kubectx latest
+pre-commit latest
+sops latest
+steampipe latest
+terraform-docs latest
+terramate latest
+tflint latest
